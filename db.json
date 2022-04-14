@@ -1,0 +1,58 @@
+{
+  "formdata": [
+    {
+      "username": "Malik",
+      "age": "23",
+      "address": "11-34/7,60links road, Cinemahall center,yerrabalem, Cinemahall center,yerrabalem",
+      "department": "software",
+      "salary": "40000",
+      "marital": "",
+      "id": 1
+    },
+    {
+      "username": "yadulla",
+      "age": "25",
+      "address": "11-34/7 cinemahall center,60 Links road, Yerrabalem",
+      "department": "hardware",
+      "salary": "40000",
+      "marital": true,
+      "id": 2
+    },
+    {
+      "username": "jphjsa",
+      "age": "56",
+      "address": "adsinmsdk56498sad",
+      "department": "Teacher",
+      "salary": "65164",
+      "marital": true,
+      "id": 3
+    },
+    {
+      "username": "kjoihs",
+      "age": "30",
+      "address": "adsinmsdk56498saddsafjasdc56",
+      "department": "Doctor",
+      "salary": "876162",
+      "marital": false,
+      "id": 4
+    },
+    {
+      "username": "uifsdjsnvcc",
+      "age": "54",
+      "address": "sadfcasd65c",
+      "department": "police",
+      "salary": "54112",
+      "marital": false,
+      "id": 5
+    },
+    {
+      "username": "Malik",
+      "age": "43",
+      "address": "11-34/7,60links road, Cinemahall center,yerrabalem, Cinemahall center,yerrabalem",
+      "department": "hardware",
+      "salary": "46465",
+      "marital": true,
+      "id": "7_Ko"
+    }
+  ]
+}
